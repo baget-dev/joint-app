@@ -1,0 +1,3 @@
+[submodule "joint-frontend"]
+	path = joint-frontend
+	url = https://github.com/baget-dev/joint-frontend
